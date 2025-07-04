@@ -17,8 +17,8 @@ This Node.js project demonstrates how to scrape economic data from the Wikipedia
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/web-scraping.git
-   cd web-scraping
+   git clone https://github.com/shuvosa/Web-Scraping-Node-js.git
+   cd Web-Scraping-Node-js
    ```
 
 2. Install dependencies:
